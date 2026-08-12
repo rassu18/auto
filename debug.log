@@ -1,0 +1,42 @@
+
+[2026-08-11 10:03:17.035703] HTTPSConnectionPool(host='api.indstocks.com', port=443): Max retries exceeded with url: /market/historical/5minute?scrip-codes=NIDX_40000001&start_time=1786163571739&end_time=1786422771739 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+
+[2026-08-11 10:15:03.930126] Downloading FNO instruments CSV...
+
+[2026-08-11 10:15:08.551411] Instruments loaded — 80768 rows
+
+[2026-08-11 10:15:08.561979] Finding PE option | Index=24473 | ATM=24450
+
+[2026-08-11 10:15:15.769981] Downloading FNO instruments CSV...
+
+[2026-08-11 10:15:24.184187] Instruments loaded — 80768 rows
+
+[2026-08-11 10:15:24.190403] Finding PE option | Index=24473 | ATM=24450
+
+[2026-08-12 09:40:17.453308] Downloading FNO instruments CSV...
+
+[2026-08-12 09:40:17.467728] Downloading FNO instruments CSV...
+
+[2026-08-12 09:40:22.215418] Instruments loaded — 81024 rows
+
+[2026-08-12 09:40:22.221335] Finding PE option | Index=24427.85 | ATM=24450
+
+[2026-08-12 09:40:23.495567] Instruments loaded — 81024 rows
+
+[2026-08-12 09:40:23.506597] Finding PE option | Index=24427.85 | ATM=24450
+
+[2026-08-12 10:30:10.863976] Downloading FNO instruments CSV...
+
+[2026-08-12 10:30:12.401152] Downloading FNO instruments CSV...
+
+[2026-08-12 10:30:16.758777] Instruments loaded — 81024 rows
+
+[2026-08-12 10:30:16.772440] Finding PE option | Index=24371.5 | ATM=24350
+
+[2026-08-12 10:30:19.343777] Instruments loaded — 81024 rows
+
+[2026-08-12 10:30:19.351159] Finding PE option | Index=24371.5 | ATM=24350
+
+[2026-08-12 14:35:17.130282] Finding CE option | Index=24321.6 | ATM=24300
+
+[2026-08-12 14:35:25.888005] Finding CE option | Index=24321.6 | ATM=24300
